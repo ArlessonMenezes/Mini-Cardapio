@@ -1,0 +1,13 @@
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\netcoreapp3.1\ModificadorDeParametros.exe
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\netcoreapp3.1\ModificadorDeParametros.deps.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\netcoreapp3.1\ModificadorDeParametros.runtimeconfig.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\netcoreapp3.1\ModificadorDeParametros.runtimeconfig.dev.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\netcoreapp3.1\ModificadorDeParametros.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\bin\Debug\netcoreapp3.1\ModificadorDeParametros.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\netcoreapp3.1\ModificadorDeParametros.csprojAssemblyReference.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\netcoreapp3.1\ModificadorDeParametros.AssemblyInfoInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\netcoreapp3.1\ModificadorDeParametros.AssemblyInfo.cs
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\netcoreapp3.1\ModificadorDeParametros.csproj.CoreCompileInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\netcoreapp3.1\ModificadorDeParametros.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\netcoreapp3.1\ModificadorDeParametros.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\ModificadorDeParametros\ModificadorDeParametros\obj\Debug\netcoreapp3.1\ModificadorDeParametros.genruntimeconfig.cache
